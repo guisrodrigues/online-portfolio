@@ -1,4 +1,13 @@
-.jumbotron {
+.hero {
+    background-color: #1f628e;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+/*.jumbotron {
     min-height: 60vh;
     background-color: #1f628e;
     text-align: center;
@@ -34,4 +43,4 @@
 }
 #schoolpath h3 {
     text-align: center;
-}
+}*/
