@@ -1,6 +1,6 @@
 .hero {
     background-color: #1f628e;
-    height: 60vh;
+    height: 70vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -26,4 +26,13 @@
 @keyframes typing {
     from { width: 0 }
     to { width: 100% }
+}
+#aboutme {
+    margin-top: 60px;
+}
+#aboutme h3 {
+    text-align: center;
+}
+#aboutme p {
+    margin-top: 30px;
 }
