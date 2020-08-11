@@ -33,6 +33,10 @@
 #aboutme h3 {
     text-align: center;
 }
+#aboutme img {
+    float: left;
+    padding-right: 40px;
+}
 #aboutme p {
     margin-top: 30px;
 }
